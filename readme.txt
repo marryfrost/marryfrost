@@ -11,7 +11,7 @@
   <header class="header">
    <div class="container clearfix">
     <div class="brand">
-	 <img class="brand_logo" scr="logo.png" alt="Waxom logo">
+	 <img class="brand_logo" src="logo.png" alt="Waxom logo">
 	 <h1 class="brand_name">Waxom</h1>
 	</div>
 	<nav class="navigation_container">
