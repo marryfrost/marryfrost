@@ -41,5 +41,5 @@
 <!-- /Page Header -->   
 <!-- Slider Section -->
 <!-- /Slider Section -->
- </body>
+</body>
 </html>
