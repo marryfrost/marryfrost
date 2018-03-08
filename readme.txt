@@ -112,7 +112,7 @@
         <button class="slider_btn slider_btn-right" type="button">&#8250;</button>
       </div>
     </section>
+ <!-- /Slider Section -->
  </main>	
-<!-- /Slider Section -->
 </body>
 </html>
